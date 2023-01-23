@@ -4,5 +4,5 @@ git stash clear
 git stash -u
 echo Checking...
 git pull
-git pop
+git stash pop
 pause
