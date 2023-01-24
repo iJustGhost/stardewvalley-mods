@@ -19,5 +19,5 @@
     "LargeImageText": "{{ Activity }}",
     "SmallImageText": "{{ Date }}"
   },
-  "AddGetModButton": true
+  "AddGetModButton": false
 }
